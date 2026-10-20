@@ -1,0 +1,100 @@
+Order_ID,Order_Date,Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Total_Sales_INR,Profit_INR,Payment_Method,Fulfillment,Order_Status,Ship_State,Profit_Margin_Pct,Month,Year,Average_Order_Value_INR
+IN-AMD-100000,2024-04-12,Apparel & Fashion,Saree with Unstitched Blouse,3,1129.14,0.25,2540.56,702.96,Cash on Delivery (COD),Seller Flex,Delivered,Telangana,0.2766949019113896,2024-04,2024,2540.56
+IN-AMD-100001,2025-03-11,Apparel & Fashion,Men Denim Jeans,3,1159.01,0.05,3303.18,770.96,UPI,Amazon (FBA),Shipped,Kerala,0.23339933034227625,2025-03,2025,3303.18
+IN-AMD-100002,2026-05-10,Beauty & Personal Care,Ubtan Face Wash,1,287.77,0.0,287.77,86.73,UPI,Amazon (FBA),Delivered,West Bengal,0.30138652396010707,2026-05,2026,287.77
+IN-AMD-100003,2024-09-27,Electronics & Mobiles,Wireless Earbuds,4,20928.14,0.05,79526.93,26466.63,Credit/Debit Card,Amazon (FBA),Shipped,Rajasthan,0.33280085123366393,2024-09,2024,79526.93
+IN-AMD-100004,2024-04-16,Beauty & Personal Care,Sunscreen Gel SPF 50,1,931.65,0.15,791.9,217.9,UPI,Seller Flex,Delivered,Karnataka,0.2751610051774214,2024-04,2024,791.9
+IN-AMD-100005,2024-03-12,Home & Kitchen,Cotton Bedsheet Double,1,6953.38,0.05,6605.71,2178.46,UPI,Merchant (FBM),Delivered,Kerala,0.32978438351062944,2024-03,2024,6605.71
+IN-AMD-100006,2025-12-01,Electronics & Mobiles,Laptop Backpack,4,10571.26,0.0,42285.04,5342.57,Cash on Delivery (COD),Seller Flex,Delivered,Rajasthan,0.1263465755264746,2025-12,2025,42285.04
+IN-AMD-100007,2024-01-21,Pantry & Groceries,Assorted Dry Fruits 500g,3,1139.54,0.1,3076.76,749.52,UPI,Amazon (FBA),Delivered,Kerala,0.2436069111662918,2024-01,2024,3076.76
+IN-AMD-100008,2025-09-06,Apparel & Fashion,Sports Shoes,3,1316.95,0.0,3950.85,716.74,UPI,Amazon (FBA),Delivered,Maharashtra,0.18141412607413596,2025-09,2025,3950.85
+IN-AMD-100009,2024-05-01,Electronics & Mobiles,Laptop Backpack,2,16568.45,0.0,33136.9,0.0,Credit/Debit Card,Merchant (FBM),Returned,Kerala,0.0,2024-05,2024,33136.9
+IN-AMD-100010,2025-04-11,Apparel & Fashion,Men Denim Jeans,4,2874.25,0.0,11497.0,2120.88,UPI,Amazon (FBA),Delivered,Telangana,0.18447247107941203,2025-04,2025,11497.0
+IN-AMD-100011,2024-08-02,Beauty & Personal Care,Ubtan Face Wash,1,935.43,0.15,795.12,245.28,UPI,Amazon (FBA),Delivered,Delhi,0.3084817386054935,2024-08,2024,795.12
+IN-AMD-100012,2024-11-26,Apparel & Fashion,Sports Shoes,4,2602.61,0.2,8328.35,2205.99,Credit/Debit Card,Seller Flex,Delivered,Delhi,0.26487719656354497,2024-11,2024,8328.35
+IN-AMD-100013,2025-04-03,Electronics & Mobiles,5G Smartphone,1,34141.47,0.1,30727.32,9179.44,Credit/Debit Card,Merchant (FBM),Shipped,Maharashtra,0.2987387119996147,2025-04,2025,30727.32
+IN-AMD-100014,2024-03-28,Electronics & Mobiles,Smartwatch,2,4785.81,0.05,9093.04,2136.51,UPI,Amazon (FBA),Delivered,Delhi,0.23496102513570818,2024-03,2024,9093.04
+IN-AMD-100015,2025-01-07,Electronics & Mobiles,Power Bank 20000mAh,2,27239.02,0.05,51754.14,9391.35,UPI,Amazon (FBA),Delivered,Karnataka,0.1814608454512045,2025-01,2025,51754.14
+IN-AMD-100016,2024-04-09,Beauty & Personal Care,Sunscreen Gel SPF 50,2,877.76,0.0,1755.52,399.7,Credit/Debit Card,Amazon (FBA),Shipped,Telangana,0.22768182646737148,2024-04,2024,1755.52
+IN-AMD-100017,2026-05-21,Apparel & Fashion,Men Denim Jeans,2,2906.9,0.2,4651.04,787.91,UPI,Merchant (FBM),Delivered,Tamil Nadu,0.16940512229522858,2026-05,2026,4651.04
+IN-AMD-100018,2025-10-25,Electronics & Mobiles,Power Bank 20000mAh,1,3336.61,0.1,3002.95,1045.12,Credit/Debit Card,Amazon (FBA),Shipped,Kerala,0.3480311027489635,2025-10,2025,3002.95
+IN-AMD-100019,2024-05-10,Electronics & Mobiles,Smartwatch,3,13615.48,0.0,40846.44,12164.43,UPI,Merchant (FBM),Delivered,Uttar Pradesh,0.2978088176105433,2024-05,2024,40846.44
+IN-AMD-100020,2025-10-23,Apparel & Fashion,Saree with Unstitched Blouse,1,1375.81,0.05,1307.02,175.6,UPI,Amazon (FBA),Delivered,West Bengal,0.13435142537987177,2025-10,2025,1307.02
+IN-AMD-100021,2024-11-04,Pantry & Groceries,Organic Turmeric Powder,2,993.64,0.1,1788.55,625.14,UPI,Merchant (FBM),Delivered,West Bengal,0.34952335690922814,2024-11,2024,1788.55
+IN-AMD-100022,2026-02-08,Apparel & Fashion,Cotton Kurta Set,3,2486.57,0.15,6340.75,979.38,UPI,Amazon (FBA),Delivered,Maharashtra,0.15445806884043686,2026-02,2026,6340.75
+IN-AMD-100023,2024-12-09,Pantry & Groceries,Basmati Rice 5kg,4,612.4,0.2,1959.68,531.81,UPI,Amazon (FBA),Delivered,West Bengal,0.2713759389288047,2024-12,2024,1959.68
+IN-AMD-100024,2025-05-06,Apparel & Fashion,Sports Shoes,1,515.52,0.0,515.52,0.0,UPI,Amazon (FBA),Cancelled,Maharashtra,0.0,2025-05,2025,515.52
+IN-AMD-100025,2025-02-17,Electronics & Mobiles,Wireless Earbuds,4,19114.76,0.15,64990.18,0.0,UPI,Amazon (FBA),Returned,Karnataka,0.0,2025-02,2025,64990.18
+IN-AMD-100026,2026-03-16,Beauty & Personal Care,Matte Lipstick,2,1346.9,0.0,2693.8,765.81,UPI,Amazon (FBA),Delivered,Tamil Nadu,0.2842861385403519,2026-03,2026,2693.8
+IN-AMD-100027,2025-01-20,Apparel & Fashion,Cotton Kurta Set,4,2121.61,0.0,8486.44,1608.49,Cash on Delivery (COD),Amazon (FBA),Delivered,Delhi,0.18953648408519944,2025-01,2025,8486.44
+IN-AMD-100028,2024-07-10,Home & Kitchen,Mixer Grinder 750W,3,7368.26,0.0,22104.78,0.0,UPI,Amazon (FBA),Returned,Rajasthan,0.0,2024-07,2024,22104.78
+IN-AMD-100029,2026-08-13,Pantry & Groceries,Ghee 1L,3,498.83,0.0,1496.49,405.71,UPI,Seller Flex,Delivered,Delhi,0.2711077254107946,2026-08,2026,1496.49
+IN-AMD-100030,2024-10-03,Electronics & Mobiles,Wireless Earbuds,3,5102.4,0.0,15307.2,1926.85,UPI,Amazon (FBA),Delivered,Delhi,0.12587867147486148,2024-10,2024,15307.2
+IN-AMD-100031,2024-06-09,Electronics & Mobiles,Wireless Earbuds,1,8145.82,0.0,8145.82,1398.91,UPI,Amazon (FBA),Delivered,West Bengal,0.17173347802922237,2024-06,2024,8145.82
+IN-AMD-100032,2025-04-04,Home & Kitchen,Water Purifier,4,7941.12,0.2,25411.58,3100.16,UPI,Amazon (FBA),Delivered,Karnataka,0.12199792378120525,2025-04,2025,25411.58
+IN-AMD-100033,2024-11-09,Electronics & Mobiles,Smartwatch,4,18273.37,0.0,73093.48,0.0,Net Banking,Seller Flex,Returned,West Bengal,0.0,2024-11,2024,73093.48
+IN-AMD-100034,2024-01-22,Electronics & Mobiles,Smartwatch,4,12275.75,0.05,46647.85,15066.98,Credit/Debit Card,Amazon (FBA),Delivered,Karnataka,0.32299409297534615,2024-01,2024,46647.85
+IN-AMD-100035,2024-09-09,Electronics & Mobiles,Smartwatch,2,16361.4,0.05,31086.66,6052.0,UPI,Amazon (FBA),Delivered,Delhi,0.19468157724245705,2024-09,2024,31086.66
+IN-AMD-100036,2026-01-17,Electronics & Mobiles,5G Smartphone,1,6494.28,0.25,4870.71,937.11,Credit/Debit Card,Seller Flex,Delivered,Kerala,0.19239700166916118,2026-01,2026,4870.71
+IN-AMD-100037,2026-05-06,Beauty & Personal Care,Ayurvedic Hair Oil,1,695.53,0.05,660.75,94.1,UPI,Amazon (FBA),Delivered,Tamil Nadu,0.14241392357169882,2026-05,2026,660.75
+IN-AMD-100038,2025-07-14,Electronics & Mobiles,Laptop Backpack,4,3204.83,0.0,12819.32,1663.59,Net Banking,Amazon (FBA),Delivered,Kerala,0.12977209399562534,2025-07,2025,12819.32
+IN-AMD-100039,2025-04-19,Apparel & Fashion,Cotton Kurta Set,1,2236.2,0.25,1677.15,292.16,UPI,Amazon (FBA),Delivered,Delhi,0.17420028023730735,2025-04,2025,1677.15
+IN-AMD-100040,2024-02-28,Home & Kitchen,Water Purifier,4,798.15,0.1,2873.34,912.79,Net Banking,Seller Flex,Delivered,Maharashtra,0.31767559704037807,2024-02,2024,2873.34
+IN-AMD-100041,2025-05-25,Apparel & Fashion,Cotton Kurta Set,4,2604.9,0.0,10419.6,2692.89,Credit/Debit Card,Amazon (FBA),Delivered,Telangana,0.2584446619831855,2025-05,2025,10419.6
+IN-AMD-100042,2025-11-12,Electronics & Mobiles,5G Smartphone,4,12754.67,0.0,51018.68,6255.6,Cash on Delivery (COD),Amazon (FBA),Delivered,Karnataka,0.12261391317846719,2025-11,2025,51018.68
+IN-AMD-100043,2025-04-20,Beauty & Personal Care,Ubtan Face Wash,3,1244.0,0.0,3732.0,970.98,UPI,Amazon (FBA),Delivered,Telangana,0.2601768488745981,2025-04,2025,3732.0
+IN-AMD-100044,2025-11-30,Electronics & Mobiles,Laptop Backpack,2,10761.13,0.1,19370.03,2549.59,Net Banking,Merchant (FBM),Shipped,Tamil Nadu,0.1316255060007651,2025-11,2025,19370.03
+IN-AMD-100045,2026-02-21,Beauty & Personal Care,Matte Lipstick,1,979.4,0.15,832.49,180.03,UPI,Amazon (FBA),Delivered,Rajasthan,0.216254849908107,2026-02,2026,832.49
+IN-AMD-100046,2024-07-08,Beauty & Personal Care,Ubtan Face Wash,2,875.51,0.05,1663.47,557.15,Amazon Pay Later,Amazon (FBA),Delivered,Delhi,0.3349324003438595,2024-07,2024,1663.47
+IN-AMD-100047,2026-08-15,Apparel & Fashion,Saree with Unstitched Blouse,3,1234.35,0.2,2962.44,783.04,UPI,Seller Flex,Delivered,Gujarat,0.26432265294824536,2026-08,2026,2962.44
+IN-AMD-100048,2025-11-17,Apparel & Fashion,Men Denim Jeans,1,2201.42,0.05,2091.35,545.3,Credit/Debit Card,Amazon (FBA),Shipped,Telangana,0.2607406699022163,2025-11,2025,2091.35
+IN-AMD-100049,2026-08-15,Apparel & Fashion,Sports Shoes,4,2436.69,0.05,9259.42,2547.81,Credit/Debit Card,Amazon (FBA),Delivered,Maharashtra,0.27515870324491165,2026-08,2026,9259.42
+IN-AMD-100050,2025-07-16,Apparel & Fashion,Sports Shoes,2,1095.36,0.0,2190.72,332.87,UPI,Amazon (FBA),Delivered,Telangana,0.15194547911189016,2025-07,2025,2190.72
+IN-AMD-100051,2026-05-25,Beauty & Personal Care,Electric Trimmer,3,419.21,0.0,1257.63,0.0,UPI,Amazon (FBA),Cancelled,Uttar Pradesh,0.0,2026-05,2026,1257.63
+IN-AMD-100052,2025-07-20,Beauty & Personal Care,Matte Lipstick,1,225.91,0.05,214.61,0.0,UPI,Amazon (FBA),Cancelled,Rajasthan,0.0,2025-07,2025,214.61
+IN-AMD-100053,2024-08-31,Apparel & Fashion,Printed T-Shirt,1,1894.13,0.25,1420.6,232.41,UPI,Seller Flex,Delivered,Delhi,0.16359988737153316,2024-08,2024,1420.6
+IN-AMD-100054,2026-04-11,Home & Kitchen,Water Purifier,2,6327.78,0.05,12022.78,1506.74,Credit/Debit Card,Amazon (FBA),Shipped,Tamil Nadu,0.12532376039485044,2026-04,2026,12022.78
+IN-AMD-100055,2025-05-19,Pantry & Groceries,Filter Coffee Powder,2,324.9,0.1,584.82,115.94,Amazon Pay Later,Amazon (FBA),Shipped,Telangana,0.19824903389076978,2025-05,2025,584.82
+IN-AMD-100056,2024-05-10,Pantry & Groceries,Basmati Rice 5kg,1,634.25,0.0,634.25,148.64,Credit/Debit Card,Amazon (FBA),Delivered,Uttar Pradesh,0.23435553803705161,2024-05,2024,634.25
+IN-AMD-100057,2025-04-29,Apparel & Fashion,Sports Shoes,1,1076.5,0.0,1076.5,141.65,Cash on Delivery (COD),Seller Flex,Delivered,Uttar Pradesh,0.13158383650719926,2025-04,2025,1076.5
+IN-AMD-100058,2026-03-29,Apparel & Fashion,Cotton Kurta Set,3,2047.15,0.1,5527.31,1898.87,Credit/Debit Card,Amazon (FBA),Delivered,Delhi,0.3435432425537919,2026-03,2026,5527.31
+IN-AMD-100059,2025-10-08,Electronics & Mobiles,5G Smartphone,4,12885.74,0.1,46388.66,13730.38,Credit/Debit Card,Amazon (FBA),Delivered,West Bengal,0.29598569995339374,2025-10,2025,46388.66
+IN-AMD-100060,2024-01-21,Pantry & Groceries,Basmati Rice 5kg,4,222.94,0.0,891.76,258.32,Cash on Delivery (COD),Amazon (FBA),Delivered,Maharashtra,0.28967435184354534,2024-01,2024,891.76
+IN-AMD-100061,2026-04-20,Electronics & Mobiles,Laptop Backpack,3,3931.15,0.2,9434.76,3042.07,UPI,Amazon (FBA),Delivered,Maharashtra,0.3224321551369616,2026-04,2026,9434.76
+IN-AMD-100062,2024-06-15,Home & Kitchen,Induction Cooktop,1,5309.49,0.1,4778.54,1222.2,UPI,Amazon (FBA),Delivered,Gujarat,0.2557684983279412,2024-06,2024,4778.54
+IN-AMD-100063,2024-09-30,Electronics & Mobiles,Power Bank 20000mAh,2,23562.23,0.05,44768.24,9884.06,UPI,Merchant (FBM),Delivered,Kerala,0.22078285856223073,2024-09,2024,44768.24
+IN-AMD-100064,2025-01-22,Electronics & Mobiles,Laptop Backpack,2,4306.7,0.15,7321.39,1694.41,Credit/Debit Card,Amazon (FBA),Delivered,Telangana,0.23143282901197723,2025-01,2025,7321.39
+IN-AMD-100065,2025-08-23,Apparel & Fashion,Sports Shoes,1,1301.94,0.0,1301.94,215.24,UPI,Amazon (FBA),Delivered,Maharashtra,0.1653225187028588,2025-08,2025,1301.94
+IN-AMD-100066,2024-11-11,Pantry & Groceries,Ghee 1L,3,335.11,0.05,955.06,198.12,Cash on Delivery (COD),Amazon (FBA),Delivered,Tamil Nadu,0.20744246434778968,2024-11,2024,955.06
+IN-AMD-100067,2024-01-14,Electronics & Mobiles,Wireless Earbuds,1,21210.54,0.1,19089.49,5793.01,UPI,Amazon (FBA),Delivered,Karnataka,0.30346593858714926,2024-01,2024,19089.49
+IN-AMD-100068,2024-08-29,Home & Kitchen,Mixer Grinder 750W,2,4655.85,0.15,7914.95,1864.01,Credit/Debit Card,Merchant (FBM),Delivered,Tamil Nadu,0.23550496212863,2024-08,2024,7914.95
+IN-AMD-100069,2026-02-15,Electronics & Mobiles,Wireless Earbuds,1,25882.48,0.05,24588.36,0.0,UPI,Amazon (FBA),Cancelled,Karnataka,0.0,2026-02,2026,24588.36
+IN-AMD-100070,2024-12-11,Electronics & Mobiles,Wireless Earbuds,1,25526.91,0.2,20421.53,6500.93,UPI,Seller Flex,Delivered,Maharashtra,0.3183370687700677,2024-12,2024,20421.53
+IN-AMD-100071,2025-07-18,Apparel & Fashion,Printed T-Shirt,3,548.35,0.1,1480.55,399.03,UPI,Amazon (FBA),Delivered,Karnataka,0.2695147073722603,2025-07,2025,1480.55
+IN-AMD-100072,2026-06-16,Apparel & Fashion,Cotton Kurta Set,4,1698.83,0.15,5776.02,0.0,UPI,Amazon (FBA),Cancelled,Gujarat,0.0,2026-06,2026,5776.02
+IN-AMD-100073,2024-12-05,Electronics & Mobiles,Smartwatch,2,9476.67,0.25,14215.0,4874.86,Cash on Delivery (COD),Amazon (FBA),Delivered,Maharashtra,0.34293774182201897,2024-12,2024,14215.0
+IN-AMD-100074,2024-04-01,Apparel & Fashion,Saree with Unstitched Blouse,2,1761.2,0.15,2994.04,996.42,UPI,Amazon (FBA),Delivered,Maharashtra,0.33280116498109574,2024-04,2024,2994.04
+IN-AMD-100075,2025-01-01,Electronics & Mobiles,Wireless Earbuds,1,5759.42,0.05,5471.45,840.96,Cash on Delivery (COD),Amazon (FBA),Delivered,Karnataka,0.15369965913971617,2025-01,2025,5471.45
+IN-AMD-100076,2026-08-13,Apparel & Fashion,Cotton Kurta Set,2,1861.35,0.1,3350.43,974.12,UPI,Amazon (FBA),Delivered,Tamil Nadu,0.290744770074289,2026-08,2026,3350.43
+IN-AMD-100077,2025-03-30,Pantry & Groceries,Assorted Dry Fruits 500g,2,606.74,0.2,970.78,0.0,Credit/Debit Card,Amazon (FBA),Returned,Maharashtra,0.0,2025-03,2025,970.78
+IN-AMD-100078,2025-03-03,Pantry & Groceries,Basmati Rice 5kg,4,987.98,0.1,3556.73,1131.74,UPI,Merchant (FBM),Delivered,Tamil Nadu,0.31819677062920154,2025-03,2025,3556.73
+IN-AMD-100079,2025-05-23,Apparel & Fashion,Sports Shoes,2,979.37,0.1,1762.87,571.99,UPI,Amazon (FBA),Delivered,Telangana,0.3244652186491347,2025-05,2025,1762.87
+IN-AMD-100080,2026-02-14,Home & Kitchen,Stainless Steel Dinner Set,2,3916.08,0.0,7832.16,2392.25,UPI,Amazon (FBA),Delivered,Tamil Nadu,0.30543936793936793,2026-02,2026,7832.16
+IN-AMD-100081,2026-07-31,Pantry & Groceries,Basmati Rice 5kg,3,566.67,0.15,1445.01,0.0,UPI,Amazon (FBA),Returned,Telangana,0.0,2026-07,2026,1445.01
+IN-AMD-100082,2024-02-04,Electronics & Mobiles,5G Smartphone,3,31262.08,0.15,79718.3,14566.64,UPI,Amazon (FBA),Delivered,Tamil Nadu,0.18272642542552964,2024-02,2024,79718.3
+IN-AMD-100083,2024-07-24,Beauty & Personal Care,Sunscreen Gel SPF 50,3,1015.24,0.2,2436.58,0.0,Net Banking,Amazon (FBA),Cancelled,Maharashtra,0.0,2024-07,2024,2436.58
+IN-AMD-100084,2024-03-21,Pantry & Groceries,Basmati Rice 5kg,3,699.27,0.15,1783.14,245.07,UPI,Amazon (FBA),Delivered,Uttar Pradesh,0.1374373296544298,2024-03,2024,1783.14
+IN-AMD-100085,2026-07-20,Electronics & Mobiles,Power Bank 20000mAh,3,24567.69,0.2,58962.46,18245.22,UPI,Merchant (FBM),Delivered,Karnataka,0.3094379033710602,2026-07,2026,58962.46
+IN-AMD-100086,2025-07-15,Electronics & Mobiles,5G Smartphone,4,27613.94,0.0,110455.76,0.0,UPI,Amazon (FBA),Returned,Tamil Nadu,0.0,2025-07,2025,110455.76
+IN-AMD-100087,2026-05-21,Pantry & Groceries,Assorted Dry Fruits 500g,2,472.04,0.15,802.47,143.93,Amazon Pay Later,Amazon (FBA),Delivered,Rajasthan,0.17935872992136778,2026-05,2026,802.47
+IN-AMD-100088,2025-01-22,Apparel & Fashion,Men Denim Jeans,1,841.42,0.25,631.06,174.02,UPI,Amazon (FBA),Delivered,Karnataka,0.275758248027129,2025-01,2025,631.06
+IN-AMD-100089,2024-01-02,Electronics & Mobiles,5G Smartphone,4,20922.21,0.15,71135.51,8550.12,UPI,Amazon (FBA),Delivered,West Bengal,0.12019482252956366,2024-01,2024,71135.51
+IN-AMD-100090,2025-01-24,Electronics & Mobiles,Power Bank 20000mAh,1,13751.81,0.1,12376.63,2045.12,Net Banking,Seller Flex,Delivered,Tamil Nadu,0.1652404572165444,2025-01,2025,12376.63
+IN-AMD-100091,2025-07-19,Apparel & Fashion,Saree with Unstitched Blouse,3,1444.24,0.2,3466.18,0.0,UPI,Merchant (FBM),Cancelled,Kerala,0.0,2025-07,2025,3466.18
+IN-AMD-100092,2024-04-15,Home & Kitchen,Mixer Grinder 750W,2,977.44,0.0,1954.88,330.02,Net Banking,Merchant (FBM),Delivered,Kerala,0.16881854640694055,2024-04,2024,1954.88
+IN-AMD-100093,2026-02-10,Home & Kitchen,Induction Cooktop,3,3678.01,0.0,11034.03,2193.52,Credit/Debit Card,Amazon (FBA),Delivered,Telangana,0.1987959068445527,2026-02,2026,11034.03
+IN-AMD-100094,2026-04-01,Pantry & Groceries,Assorted Dry Fruits 500g,4,508.12,0.25,1524.36,0.0,UPI,Seller Flex,Cancelled,Karnataka,0.0,2026-04,2026,1524.36
+IN-AMD-100095,2025-04-21,Electronics & Mobiles,5G Smartphone,1,9297.49,0.1,8367.74,1011.78,UPI,Amazon (FBA),Delivered,Rajasthan,0.1209143687542873,2025-04,2025,8367.74
+IN-AMD-100096,2025-12-03,Apparel & Fashion,Sports Shoes,2,2868.03,0.0,5736.06,1343.13,Cash on Delivery (COD),Amazon (FBA),Delivered,West Bengal,0.2341555004654763,2025-12,2025,5736.06
+IN-AMD-100097,2025-02-05,Apparel & Fashion,Cotton Kurta Set,4,681.42,0.05,2589.4,352.72,UPI,Seller Flex,Delivered,Rajasthan,0.1362168842202827,2025-02,2025,2589.4
+IN-AMD-100098,2025-12-30,Apparel & Fashion,Men Denim Jeans,4,675.72,0.15,2297.45,656.33,Cash on Delivery (COD),Amazon (FBA),Delivered,Rajasthan,0.28567759907723783,2025-12,2025,2297.45
